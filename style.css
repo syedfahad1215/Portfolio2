@@ -335,10 +335,11 @@ footer {
         font-size: 18px;
     }
     .technologies button {
-        
         font-size: 12px;
         width: 140px;
-      
+    }
+    .logo{
+        font-size: 25px;
     }
     
 }
